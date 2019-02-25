@@ -1,0 +1,25 @@
+{
+  "name": "gif-search",
+  "version": "1.0.0",
+  "description": "Gif search engine",
+  "main": "index.js", 
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "keywords": [
+    "react",
+    "gif",
+    "search",
+    "kodilla"
+  ],
+  "author": "B. Franczak",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
